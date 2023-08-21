@@ -1,0 +1,7 @@
+langchain
+openai
+openai-schema-pydantic
+PyPDF2
+tiktoken
+faiss-cpu
+stremlit 
