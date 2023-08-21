@@ -4,4 +4,4 @@ openapi-schema-pydantic
 PyPDF2
 tiktoken
 faiss-cpu
-stremlit 
+streamlit 
